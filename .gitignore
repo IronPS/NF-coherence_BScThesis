@@ -1,0 +1,11 @@
+.env
+.ipynb_checkpoints
+.png
+.pt
+model_tmp
+data
+__pycache__
+.vscode
+*.cache
+aux
+output
